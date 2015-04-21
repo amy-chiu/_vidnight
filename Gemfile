@@ -15,6 +15,7 @@ gem 'unicorn'
 
 group :doc do
   gem 'sdoc', '~> 0.4.0'
+  gem 'devise', '~> 3.4.1'
 end
 
 group :development, :test do

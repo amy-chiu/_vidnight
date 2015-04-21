@@ -1,4 +1,5 @@
 Rails.application.configure do
+
   # Use production variant of react for production
   config.react.variant = :production
 
